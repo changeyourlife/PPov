@@ -1,0 +1,11 @@
+E:\CloudStorage\Dropbox\University\Системное программирование\Курсач\PPov\PPov\bin\Debug\PPov.exe.config
+E:\CloudStorage\Dropbox\University\Системное программирование\Курсач\PPov\PPov\bin\Debug\PPov.exe
+E:\CloudStorage\Dropbox\University\Системное программирование\Курсач\PPov\PPov\bin\Debug\PPov.pdb
+E:\CloudStorage\Dropbox\University\Системное программирование\Курсач\PPov\PPov\obj\Debug\PPov.csprojResolveAssemblyReference.cache
+E:\CloudStorage\Dropbox\University\Системное программирование\Курсач\PPov\PPov\obj\Debug\PPov.Form1.resources
+E:\CloudStorage\Dropbox\University\Системное программирование\Курсач\PPov\PPov\obj\Debug\PPov.Form2.resources
+E:\CloudStorage\Dropbox\University\Системное программирование\Курсач\PPov\PPov\obj\Debug\PPov.Properties.Resources.resources
+E:\CloudStorage\Dropbox\University\Системное программирование\Курсач\PPov\PPov\obj\Debug\PPov.csproj.GenerateResource.Cache
+E:\CloudStorage\Dropbox\University\Системное программирование\Курсач\PPov\PPov\obj\Debug\PPov.exe
+E:\CloudStorage\Dropbox\University\Системное программирование\Курсач\PPov\PPov\obj\Debug\PPov.pdb
+E:\CloudStorage\Dropbox\University\Системное программирование\Курсач\PPov\PPov\obj\Debug\PPov.Form3.resources

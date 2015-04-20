@@ -1,0 +1,11 @@
+E:\CloudStorage\Dropbox\University\Системное программирование\Курсач\PPov\PPov\bin\Release\PPov.exe.config
+E:\CloudStorage\Dropbox\University\Системное программирование\Курсач\PPov\PPov\obj\Release\PPov.Form1.resources
+E:\CloudStorage\Dropbox\University\Системное программирование\Курсач\PPov\PPov\obj\Release\PPov.Form2.resources
+E:\CloudStorage\Dropbox\University\Системное программирование\Курсач\PPov\PPov\obj\Release\PPov.Form3.resources
+E:\CloudStorage\Dropbox\University\Системное программирование\Курсач\PPov\PPov\obj\Release\PPov.csproj.GenerateResource.Cache
+E:\CloudStorage\Dropbox\University\Системное программирование\Курсач\PPov\PPov\obj\Release\PPov.Properties.Resources.resources
+E:\CloudStorage\Dropbox\University\Системное программирование\Курсач\PPov\PPov\bin\Release\PPov.exe
+E:\CloudStorage\Dropbox\University\Системное программирование\Курсач\PPov\PPov\bin\Release\PPov.pdb
+E:\CloudStorage\Dropbox\University\Системное программирование\Курсач\PPov\PPov\obj\Release\PPov.exe
+E:\CloudStorage\Dropbox\University\Системное программирование\Курсач\PPov\PPov\obj\Release\PPov.pdb
+E:\CloudStorage\Dropbox\University\Системное программирование\Курсач\PPov\PPov\obj\Release\PPov.csprojResolveAssemblyReference.cache
